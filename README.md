@@ -5,3 +5,4 @@ The accuracy of 77,5% (the effect of overfitting was controlled and was reduced 
 3 convolutional layers (kernel size = 3x3, stride = 1, padding = 1, activation function Leaky ReLU, max pooling layer after each conv. layer with 4x4 kernel and stride=2)    
 2 fully-connected layer (256 neurons each)
 
+The final grade for this project was 2,0. 
